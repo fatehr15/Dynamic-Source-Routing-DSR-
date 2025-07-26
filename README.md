@@ -11,8 +11,7 @@ This repository contains materials related to our lecture on **Dynamic Source Ro
 ## 🚀 About the Lecture
 This lecture was prepared as part of our academic work to explore **DSR's role in wireless ad hoc networks**. We aimed to provide a comprehensive understanding of **how source routing works, its benefits, and challenges**.
 
-## 📜 License
-This project is released under the [MIT License](LICENSE).
+
 
 ---
 Feel free to explore, use, and contribute! 🚀
